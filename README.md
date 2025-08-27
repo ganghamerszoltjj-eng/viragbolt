@@ -1,1 +1,5 @@
-# viragbolt
+index.md
+---
+layout: none
+permalink: /
+---
